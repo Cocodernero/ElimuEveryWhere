@@ -1,8 +1,5 @@
 # ElimuEveryWhere 
 Elimu Everywhere - Your Gateway to Free Education  🌍 Unlock knowledge with Elimu Everywhere, a free education app offering a world of courses and certifications. Explore diverse subjects, tailored learning paths, and direct interactions with educators.  📚 Explore: Access a variety of free educational content from trusted sources.
-<div align="center">
-  <img src="logo.png" alt="Elimu Everywhere Logo">
-</div>
 
 # Elimu Everywhere - Free Education & Certification Mobile App
 
@@ -54,7 +51,3 @@ Join the Elimu Everywhere community to connect with fellow learners, educators, 
 If you need assistance or have questions, feel free to reach out to our [Support Team](mailto:support@elimueverywhere.com).
 
 Empower yourself with education. Join Elimu Everywhere today and unlock a world of knowledge!
-
-<div align="center">
-  <img src="screenshot.png" alt="Elimu Everywhere Screenshot">
-</div>
