@@ -14,7 +14,7 @@ Welcome to the official repository of Elimu Everywhere, your gateway to free and
 - [Community and Support](#community-and-support)
 
 ## About Elimu Everywhere
-Elimu Everywhere is an open-source mobile app that aims to democratize education and make learning accessible to all, irrespective of geographical location or financial constraints. Our mission is to empower learners by providing a platform that offers a diverse range of courses, certifications, and personalized learning paths.
+Elimu Everywhere is website and mobile app that aims to democratize education and make learning accessible to all, irrespective of geographical location or financial constraints. Our mission is to empower learners by providing a platform that offers a diverse range of courses, certifications, and personalized learning paths.
 
 ## Key Features
 - **Explore:** Access a wide variety of free educational content from reputable sources.
